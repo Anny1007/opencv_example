@@ -1,4 +1,4 @@
-# opencv_colab_example ==>修改課程 ch14 程式碼至 colab 
+# opencv_example ==>修改課程 ch14 程式碼至 colab 
 #只能在 colab 上執行
 #from google.colab.patches import cv2_imshow
 #刪除視窗名稱
